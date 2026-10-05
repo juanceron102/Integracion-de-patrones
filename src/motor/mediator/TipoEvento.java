@@ -1,0 +1,12 @@
+package motor.mediator;
+
+public enum TipoEvento {
+    FORMATO_CAMBIADO,
+    DISPOSICION_CAMBIADA,
+    PLANTILLA_CAMBIADA,
+    ENCABEZADO_AGREGADO,
+    PARRAFO_AGREGADO,
+    TABLA_AGREGADA,
+    PIE_AGREGADO,
+    EXPORTAR
+}

@@ -1,0 +1,82 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [9 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Bold /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+8 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842.00] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R /F6 8 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 1575 >>
+stream
+1 0 0 1 0 842.00 cm
+BT /F2 19.2 Tf 0.122 0.227 0.576 rg 40.00 -55.36 Td ([$]) Tj ET
+BT /F6 19.2 Tf 0.122 0.227 0.576 rg 73.60 -55.36 Td (Factura electrÛnica No. 001) Tj ET
+BT /F5 12.0 Tf 0.000 0.000 0.000 rg 40.00 -83.20 Td (Cliente: ACME S.A.S. - Fecha de emisiÛn: 04/10/2026) Tj ET
+BT /F5 12.0 Tf 0.000 0.000 0.000 rg 40.00 -104.20 Td (Pago con tarjeta ****-****-****-1234. Documento ************.) Tj ET
+BT /F2 12.0 Tf 0.000 0.000 0.000 rg 40.00 -125.20 Td ([v]) Tj ET
+0.9 0.9 0.9 rg 40.00 -150.60 515.00 14.00 re f
+0.5 w 0 0 0 RG
+40.00 -206.60 515.00 70.00 re S
+40.00 -150.60 m 555.00 -150.60 l S
+40.00 -164.60 m 555.00 -164.60 l S
+40.00 -178.60 m 555.00 -178.60 l S
+40.00 -192.60 m 555.00 -192.60 l S
+297.50 -136.60 m 297.50 -206.60 l S
+BT /F2 10.0 Tf 0.000 0.000 0.000 rg 44.00 -146.60 Td (Concepto) Tj ET
+BT /F2 10.0 Tf 0.000 0.000 0.000 rg 301.50 -146.60 Td (Valor) Tj ET
+BT /F1 10.0 Tf 0.000 0.000 0.000 rg 44.00 -160.60 Td (Precio base) Tj ET
+BT /F1 10.0 Tf 0.000 0.000 0.000 rg 301.50 -160.60 Td (1,500,000) Tj ET
+BT /F1 10.0 Tf 0.000 0.000 0.000 rg 44.00 -174.60 Td (IVA 19%) Tj ET
+BT /F1 10.0 Tf 0.000 0.000 0.000 rg 301.50 -174.60 Td (285,000) Tj ET
+BT /F1 10.0 Tf 0.000 0.000 0.000 rg 44.00 -188.60 Td (Descuento) Tj ET
+BT /F1 10.0 Tf 0.000 0.000 0.000 rg 301.50 -188.60 Td (50,000) Tj ET
+BT /F1 10.0 Tf 0.000 0.000 0.000 rg 44.00 -202.60 Td (Total) Tj ET
+BT /F1 10.0 Tf 0.000 0.000 0.000 rg 301.50 -202.60 Td (1,735,000) Tj ET
+BT /F5 12.0 Tf 0.467 0.467 0.467 rg 40.00 -230.20 Td (Generado el 04/10/2026 - Gracias por su compra) Tj ET
+
+endstream
+endobj
+11 0 obj
+<< /Title (Factura electrÛnica No. 001) /Producer (Motor de Documentos Inteligentes) >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000218 00000 n 
+0000000320 00000 n 
+0000000419 00000 n 
+0000000517 00000 n 
+0000000612 00000 n 
+0000000712 00000 n 
+0000000892 00000 n 
+0000002520 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R /Info 11 0 R >>
+startxref
+2624
+%%EOF
